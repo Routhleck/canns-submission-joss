@@ -43,7 +43,7 @@ affiliations:
     index: 6
 
 date: 16 January 2026
-bibliography: docs/refs/references.bib
+bibliography: paper.bib
 ---
 # Summary
 
