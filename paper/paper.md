@@ -63,8 +63,8 @@ from scratch, use incompatible codebases, and face significant reproducibility b
 and creates steep learning curves for newcomers.
 
 CANNs addresses this gap by providing a unified Python toolkit built on BrainPy [@wang2023brainpy]. It delivers: (1) standardized
-implementations of CANN and related brain-inspired models, including canonical frameworks (Wu-Amari-Wong [@amari1977dynamics; @wu2008dynamics],
-adaptation-augmented CANNs [@mi2014spike; @li2025dynamics], grid cell networks [@burak2009accurate]), alongside additional attractor
+implementations of CANN and related brain-inspired models, including mathematically tractable and canonical Wu-Amari-Wong (WAW) model [@amari1977dynamics; @wu2008dynamics],
+adaptation-augmented CANNs [@mi2014spike; @li2025dynamics], grid cell networks [@burak2009accurate], alongside additional attractor
 architectures; (2) integrated task generation, simulation, and analysis pipelines; and (3) high-performance computation via JAX JIT
 compilation and optional Rust acceleration. By standardizing workflows—analogous to Hugging Face
 Transformers in deep learning—this library accelerates reproducible research and lowers barriers for computational neuroscientists,
