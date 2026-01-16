@@ -75,18 +75,10 @@ CANNs builds upon BrainPy [@wang2023brainpy], a modern brain dynamics framework 
 
 # AI usage disclosure
 
-AI-assisted tools were used during the development of this software in limited, auxiliary capacities. Sourcery AI was employed for
-automated code quality reviews and refactoring suggestions in pull requests. Large language models (including Claude and ChatGPT) assisted
-with documentation writing, including docstring generation, tutorial content drafting, and technical writing refinement. However, all core
-library code—including model implementations, task generators, analyzers, and algorithmic components—was written by human developers. All
-AI-generated content was reviewed, validated, and edited by the authors to ensure technical accuracy and consistency with project standards.
-The software architecture, design decisions, and scientific contributions represent original human intellectual work.
+AI-assisted tools were used for code quality reviews and documentation writing. All core library code was written by human developers, and AI-generated content was reviewed and validated by the authors.
 
 # Acknowledgements
 
-We thank Aiersi Tuerhong and Shangjun She for their collaborative development contributions to the library implementation. We are grateful
-to Tianhao Chu, Yuling Wu, and Junfeng Zuo for valuable discussions, feedback, and guidance throughout the project development. We especially
-thank Si Wu for overall scientific guidance and mentorship. We acknowledge the BrainPy development team for providing the foundational
-framework upon which this library is built, and the broader open-source community for tools and libraries that enabled this work.
+We acknowledge the BrainPy development team for providing the foundational framework upon which this library is built, and the broader open-source community for tools and libraries that enabled this work.
 
 # References
