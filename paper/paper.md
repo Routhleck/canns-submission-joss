@@ -1,5 +1,5 @@
 ---
-title: "CANNs: Continuous Attractor Neural Networks Toolkit with ASA for Attractor Structure Analysis"
+title: "CANNs: Continuous Attractor Neural Networks Toolkit"
 tags:
   - Python
   - continuous attractor neural networks
