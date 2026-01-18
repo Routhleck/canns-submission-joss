@@ -8,21 +8,21 @@ tags:
 authors:
   - name: Sichao He
     orcid: 0009-0009-4564-1753
-    affiliation: 1，2，4，5
+    affiliation: "1，2，4，5"
   - name: Aiersi Tuerhong
     orcid: 0009-0006-4603-4734
     affiliation: 3
   - name: Shangjun She
     orcid: 0009-0008-4490-7612
-    affiliation: 1，2，4，5
+    affiliation: "1，2，4，5"
   - name: Tianhao Chu  
     orcid: 0000-0001-9910-9361
-    affiliation: 1，2，4，5
+    affiliation: "1，2，4，5"
   - name: Yuling Wu
     orcid: 0009-0001-5303-5413
-    affiliation: 1，2，4，5
+    affiliation: "1，2，4，5"
   - name: Junfeng Zuo
-    affiliation: 1，2，4，5
+    affiliation: "1，2，4，5"
   - name: Si Wu
     orcid: 0000-0001-9650-6935
     corresponding: true
