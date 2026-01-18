@@ -8,34 +8,34 @@ tags:
 authors:
   - name: Sichao He
     orcid: 0009-0009-4564-1753
-    affiliation: "1，2，4，5"
+    affiliation: "1, 2, 4, 5"
   - name: Aiersi Tuerhong
     orcid: 0009-0006-4603-4734
     affiliation: 3
   - name: Shangjun She
     orcid: 0009-0008-4490-7612
-    affiliation: "1，2，4，5"
-  - name: Tianhao Chu  
+    affiliation: "1, 2, 4, 5"
+  - name: Tianhao Chu
     orcid: 0000-0001-9910-9361
-    affiliation: "1，2，4，5"
+    affiliation: "1, 2, 4, 5"
   - name: Yuling Wu
     orcid: 0009-0001-5303-5413
-    affiliation: "1，2，4，5"
+    affiliation: "1, 2, 4, 5"
   - name: Junfeng Zuo
-    affiliation: "1，2，4，5"
+    affiliation: "1, 2, 4, 5"
   - name: Si Wu
     orcid: 0000-0001-9650-6935
     corresponding: true
     affiliation: "1, 3, 4, 5"
       
 affiliations:
-   - name: School of Psychological and Cognitive Sciences, Peking University, Beijing, China
+  - name: School of Psychological and Cognitive Sciences, Peking University, Beijing, China
     index: 1
-   - name: Peking-Tsinghua Center for Life Sciences, Academy for Advanced Interdisciplinary Studies, Peking University, Beijing, China
+  - name: Peking-Tsinghua Center for Life Sciences, Academy for Advanced Interdisciplinary Studies, Peking University, Beijing, China
     index: 2
   - name: College of Mathematics and Statistics, Chongqing University, Chongqing, China
     index: 3
-   - name: PKU-IDG/McGovern Institute for Brain Research, Peking University, Beijing, China
+  - name: PKU-IDG/McGovern Institute for Brain Research, Peking University, Beijing, China
     index: 4
   - name: Center of Quantitative Biology, Peking University, Beijing, China
     index: 5
